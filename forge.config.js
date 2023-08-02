@@ -1,6 +1,6 @@
 module.exports = {
   packagerConfig: {
-    icon:'.src/assets/Notes',
+    icon:'.src/assets/notes.ico',
     asar: true,
   },
   rebuildConfig: {},
